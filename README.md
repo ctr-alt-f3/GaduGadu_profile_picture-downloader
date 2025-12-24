@@ -5,3 +5,5 @@ simple python script to automatically download profile pictures of gg numbers wr
 - create "profilowe" directory
 - create "GG_names" file with GG numbers (i recommend doing it automatically with automatic roulette bot via burpsuite and reshaper)
 - create "counter" file with number "0" in it
+
+code has a lot of variables named in polish, but u can just use google translator 
